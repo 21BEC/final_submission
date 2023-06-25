@@ -8,7 +8,9 @@ This contract is written on remix IDE in the Solidity programming language and t
 
 
 ##Contributing
+
 Contributions to this repository are not accepted as it is for personal assignments. However, if you have suggestions or feedback, feel free to open an issue.
 
 ##License
+
 This project is licensed under the MIT License. You are free to modify and distribute the code for personal and educational purposes.
