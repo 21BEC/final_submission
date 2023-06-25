@@ -1,4 +1,4 @@
-##Create a Token 
+<b>Create a Token</b>
 
 In this, we have to create a program that runs a contract in which we first store the values the user is storing can say Ether, and increasing it with the initial value that is 0, in a function named (mint) and in another function (burn) inside a contract we burn the values means the ether which is left after using and we do that by using conditional statement (if) like if the total cost is greater than the value can say then operate otherwise throw an error.
 
